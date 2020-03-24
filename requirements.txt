@@ -16,7 +16,7 @@ baidu-aip==2.2.18.0
 bcrypt==3.1.7
 beautifulsoup4==4.7.1
 binarytree==4.1.0
-bleach==3.1.0
+bleach==3.1.2
 bottlenose==1.1.8
 bs4==0.0.1
 buildozer==0.39
