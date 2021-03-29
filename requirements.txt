@@ -170,7 +170,7 @@ pygal==2.4.0
 pygame==1.9.6
 pygeocoder==1.2.5
 PyGetWindow==0.0.8
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyinstall==0.1.4
 PyInstaller==3.4
