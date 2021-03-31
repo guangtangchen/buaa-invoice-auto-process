@@ -102,7 +102,7 @@ Kivy==1.11.1
 Kivy-Garden==0.1.4
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.1
-lxml==4.3.3
+lxml==4.6.3
 macholib==1.11
 Markdown==3.1.1
 MarkupSafe==1.1.1
