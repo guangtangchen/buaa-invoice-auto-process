@@ -51,7 +51,7 @@ docx==0.2.4
 entrypoints==0.3
 et-xmlfile==1.0.1
 etelemetry==0.1.2
-eventlet==0.25.1
+eventlet==0.31.0
 fabric==2.5.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
