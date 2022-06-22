@@ -125,7 +125,7 @@ nibabel==2.5.1
 nltk==3.4.1
 nmap==0.0.1
 ntplib==0.3.3
-numpy==1.16.2
+numpy==1.22.0
 numpydoc==0.9.1
 opencv-python==4.1.0.25
 openpyxl==2.6.3
