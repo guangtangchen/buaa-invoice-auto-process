@@ -22,7 +22,7 @@ bs4==0.0.1
 buildozer==0.39
 cairocffi==1.0.2
 CairoSVG==2.4.0
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
